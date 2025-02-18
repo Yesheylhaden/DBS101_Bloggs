@@ -1,4 +1,5 @@
-title: Hello, world! I'm Yeshey Lhaden
+title: "Hello, world! I'm Yeshey Lhaden"
+
 description: > # this means to ignore newlines until "baseurl:"
 Welcome to my blog! This is where I’ll be documenting the knowledge I gain after completing each unit of the DBS101 (Database Systems) module. It will serve as the perfect place for me to reflect on key takeaways and challenges that shape my understanding. This blog is my journal, capturing my thoughts, experiences, and learning process. From new concepts in databases to problem-solving and personal growth, I aim to offer a unique perspective on what I’ve learned, the mistakes I’ve made, and how I’ve overcome them. Join me on my journey as I continue to grow as a software engineer.
 permalink: ':title/'
