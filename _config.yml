@@ -1,17 +1,15 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Yeshey Lhaden
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Welcome to my blog! This is where I’ll be documenting the knowledge I gain after completing each unit of the DBS101 (Database Systems) module. It will serve as the perfect place for me to reflect on key takeaways and challenges that shape my understanding. This blog is my journal, capturing my thoughts, experiences, and learning process. From new concepts in databases to problem-solving and personal growth, I aim to offer a unique perspective on what I’ve learned, the mistakes I’ve made, and how I’ve overcome them. Join me on my journey as I continue to grow as a software engineer.
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Yeshey Lhaden # add your name
+author-img: yeshey-lhaden.jpg # add your photo
+about-author: My name is Yeshey Lhaden, a student who is studying Software engineering at CST. I am passionate about solving problems and innovating. I also enjoy dancing and knitting while collaborating in a team setting as I gain enjoyment from the process of working together. I have a strong work ethic that helps me to make an impact in the tech world. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
